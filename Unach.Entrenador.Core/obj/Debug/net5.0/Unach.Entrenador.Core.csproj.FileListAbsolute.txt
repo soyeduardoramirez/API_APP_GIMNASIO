@@ -1,0 +1,107 @@
+C:\Demos\Entrenador\API\Unach.Entrenador.API\Unach.Entrenador.Core\bin\Debug\net5.0\Unach.Entrenador.Core.deps.json
+C:\Demos\Entrenador\API\Unach.Entrenador.API\Unach.Entrenador.Core\bin\Debug\net5.0\Unach.Entrenador.Core.dll
+C:\Demos\Entrenador\API\Unach.Entrenador.API\Unach.Entrenador.Core\bin\Debug\net5.0\ref\Unach.Entrenador.Core.dll
+C:\Demos\Entrenador\API\Unach.Entrenador.API\Unach.Entrenador.Core\bin\Debug\net5.0\Unach.Entrenador.Core.pdb
+C:\Demos\Entrenador\API\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\Entrenador\API\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.AssemblyInfoInputs.cache
+C:\Demos\Entrenador\API\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.AssemblyInfo.cs
+C:\Demos\Entrenador\API\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.csproj.CoreCompileInputs.cache
+C:\Demos\Entrenador\API\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.dll
+C:\Demos\Entrenador\API\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\ref\Unach.Entrenador.Core.dll
+C:\Demos\Entrenador\API\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.pdb
+C:\Demos\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.Core\bin\Debug\net5.0\Unach.Entrenador.Core.deps.json
+C:\Demos\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.Core\bin\Debug\net5.0\Unach.Entrenador.Core.dll
+C:\Demos\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.Core\bin\Debug\net5.0\ref\Unach.Entrenador.Core.dll
+C:\Demos\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.Core\bin\Debug\net5.0\Unach.Entrenador.Core.pdb
+C:\Demos\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.AssemblyInfoInputs.cache
+C:\Demos\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.AssemblyInfo.cs
+C:\Demos\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.csproj.CoreCompileInputs.cache
+C:\Demos\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.dll
+C:\Demos\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\ref\Unach.Entrenador.Core.dll
+C:\Demos\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.pdb
+C:\Users\6QW81LA_RS5\Downloads\Unach.Entrenador.API\Unach.Entrenador.Core\bin\Debug\net5.0\Unach.Entrenador.Core.deps.json
+C:\Users\6QW81LA_RS5\Downloads\Unach.Entrenador.API\Unach.Entrenador.Core\bin\Debug\net5.0\Unach.Entrenador.Core.dll
+C:\Users\6QW81LA_RS5\Downloads\Unach.Entrenador.API\Unach.Entrenador.Core\bin\Debug\net5.0\ref\Unach.Entrenador.Core.dll
+C:\Users\6QW81LA_RS5\Downloads\Unach.Entrenador.API\Unach.Entrenador.Core\bin\Debug\net5.0\Unach.Entrenador.Core.pdb
+C:\Users\6QW81LA_RS5\Downloads\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.csproj.AssemblyReference.cache
+C:\Users\6QW81LA_RS5\Downloads\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6QW81LA_RS5\Downloads\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.AssemblyInfoInputs.cache
+C:\Users\6QW81LA_RS5\Downloads\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.AssemblyInfo.cs
+C:\Users\6QW81LA_RS5\Downloads\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.csproj.CoreCompileInputs.cache
+C:\Users\6QW81LA_RS5\Downloads\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.dll
+C:\Users\6QW81LA_RS5\Downloads\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\ref\Unach.Entrenador.Core.dll
+C:\Users\6QW81LA_RS5\Downloads\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.pdb
+C:\Demos\Entrenador\API\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Videos\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.Core\bin\Debug\net5.0\Unach.Entrenador.Core.deps.json
+C:\Users\Eduardo\Videos\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.Core\bin\Debug\net5.0\Unach.Entrenador.Core.dll
+C:\Users\Eduardo\Videos\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.Core\bin\Debug\net5.0\Unach.Entrenador.Core.pdb
+C:\Users\Eduardo\Videos\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Videos\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\Videos\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Videos\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.AssemblyInfo.cs
+C:\Users\Eduardo\Videos\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Videos\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.dll
+C:\Users\Eduardo\Videos\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\refint\Unach.Entrenador.Core.dll
+C:\Users\Eduardo\Videos\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.pdb
+C:\Users\Eduardo\Videos\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\ref\Unach.Entrenador.Core.dll
+C:\Users\6QW81LA_RS5\Downloads\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.Core\bin\Debug\net5.0\Unach.Entrenador.Core.deps.json
+C:\Users\6QW81LA_RS5\Downloads\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.Core\bin\Debug\net5.0\Unach.Entrenador.Core.dll
+C:\Users\6QW81LA_RS5\Downloads\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.Core\bin\Debug\net5.0\ref\Unach.Entrenador.Core.dll
+C:\Users\6QW81LA_RS5\Downloads\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.Core\bin\Debug\net5.0\Unach.Entrenador.Core.pdb
+C:\Users\6QW81LA_RS5\Downloads\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.csproj.AssemblyReference.cache
+C:\Users\6QW81LA_RS5\Downloads\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6QW81LA_RS5\Downloads\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.AssemblyInfoInputs.cache
+C:\Users\6QW81LA_RS5\Downloads\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.AssemblyInfo.cs
+C:\Users\6QW81LA_RS5\Downloads\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.csproj.CoreCompileInputs.cache
+C:\Users\6QW81LA_RS5\Downloads\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.dll
+C:\Users\6QW81LA_RS5\Downloads\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\ref\Unach.Entrenador.Core.dll
+C:\Users\6QW81LA_RS5\Downloads\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.pdb
+C:\Users\Lenovo\Desktop\Unach.Entrenador.API\Unach.Entrenador.Core\bin\Debug\net5.0\Unach.Entrenador.Core.deps.json
+C:\Users\Lenovo\Desktop\Unach.Entrenador.API\Unach.Entrenador.Core\bin\Debug\net5.0\Unach.Entrenador.Core.dll
+C:\Users\Lenovo\Desktop\Unach.Entrenador.API\Unach.Entrenador.Core\bin\Debug\net5.0\ref\Unach.Entrenador.Core.dll
+C:\Users\Lenovo\Desktop\Unach.Entrenador.API\Unach.Entrenador.Core\bin\Debug\net5.0\Unach.Entrenador.Core.pdb
+C:\Users\Lenovo\Desktop\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.dll
+C:\Users\Lenovo\Desktop\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\ref\Unach.Entrenador.Core.dll
+C:\Users\Lenovo\Desktop\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.pdb
+C:\Users\Lenovo\Desktop\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.csproj.AssemblyReference.cache
+D:\Unach.Entrenador.API5\Unach.Entrenador.API\Unach.Entrenador.Core\bin\Debug\net5.0\Unach.Entrenador.Core.deps.json
+D:\Unach.Entrenador.API5\Unach.Entrenador.API\Unach.Entrenador.Core\bin\Debug\net5.0\Unach.Entrenador.Core.dll
+D:\Unach.Entrenador.API5\Unach.Entrenador.API\Unach.Entrenador.Core\bin\Debug\net5.0\ref\Unach.Entrenador.Core.dll
+D:\Unach.Entrenador.API5\Unach.Entrenador.API\Unach.Entrenador.Core\bin\Debug\net5.0\Unach.Entrenador.Core.pdb
+D:\Unach.Entrenador.API5\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.csproj.AssemblyReference.cache
+D:\Unach.Entrenador.API5\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unach.Entrenador.API5\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.AssemblyInfoInputs.cache
+D:\Unach.Entrenador.API5\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.AssemblyInfo.cs
+D:\Unach.Entrenador.API5\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.csproj.CoreCompileInputs.cache
+D:\Unach.Entrenador.API5\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.dll
+D:\Unach.Entrenador.API5\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\ref\Unach.Entrenador.Core.dll
+D:\Unach.Entrenador.API5\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.pdb
+C:\Users\Eduardo\Desktop\Unach.Entrenador.API\Unach.Entrenador.Core\bin\Debug\net5.0\Unach.Entrenador.Core.deps.json
+C:\Users\Eduardo\Desktop\Unach.Entrenador.API\Unach.Entrenador.Core\bin\Debug\net5.0\Unach.Entrenador.Core.dll
+C:\Users\Eduardo\Desktop\Unach.Entrenador.API\Unach.Entrenador.Core\bin\Debug\net5.0\Unach.Entrenador.Core.pdb
+C:\Users\Eduardo\Desktop\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Desktop\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\Desktop\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Desktop\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.AssemblyInfo.cs
+C:\Users\Eduardo\Desktop\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Desktop\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.dll
+C:\Users\Eduardo\Desktop\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\refint\Unach.Entrenador.Core.dll
+C:\Users\Eduardo\Desktop\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.pdb
+C:\Users\Eduardo\Desktop\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\ref\Unach.Entrenador.Core.dll
+E:\Universidad\7mo Semestre\Apps Moviles\ProyectoGYM\Unach.Entrenador.API\Unach.Entrenador.Core\bin\Debug\net5.0\Unach.Entrenador.Core.deps.json
+E:\Universidad\7mo Semestre\Apps Moviles\ProyectoGYM\Unach.Entrenador.API\Unach.Entrenador.Core\bin\Debug\net5.0\Unach.Entrenador.Core.dll
+E:\Universidad\7mo Semestre\Apps Moviles\ProyectoGYM\Unach.Entrenador.API\Unach.Entrenador.Core\bin\Debug\net5.0\Unach.Entrenador.Core.pdb
+E:\Universidad\7mo Semestre\Apps Moviles\ProyectoGYM\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.csproj.AssemblyReference.cache
+E:\Universidad\7mo Semestre\Apps Moviles\ProyectoGYM\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Universidad\7mo Semestre\Apps Moviles\ProyectoGYM\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.AssemblyInfoInputs.cache
+E:\Universidad\7mo Semestre\Apps Moviles\ProyectoGYM\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.AssemblyInfo.cs
+E:\Universidad\7mo Semestre\Apps Moviles\ProyectoGYM\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.csproj.CoreCompileInputs.cache
+E:\Universidad\7mo Semestre\Apps Moviles\ProyectoGYM\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.dll
+E:\Universidad\7mo Semestre\Apps Moviles\ProyectoGYM\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\refint\Unach.Entrenador.Core.dll
+E:\Universidad\7mo Semestre\Apps Moviles\ProyectoGYM\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\Unach.Entrenador.Core.pdb
+E:\Universidad\7mo Semestre\Apps Moviles\ProyectoGYM\Unach.Entrenador.API\Unach.Entrenador.Core\obj\Debug\net5.0\ref\Unach.Entrenador.Core.dll
